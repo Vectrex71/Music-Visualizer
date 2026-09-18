@@ -11,6 +11,8 @@
 
 **Music Visualizer** enables artists, DJs, beatmakers, and video creators to generate stunning audio-reactive videos directly inside their web browser—without watermarks, subscriptions, or cloud uploads.
 
+<img width="1628" height="922" alt="Screenshot 2026-09-18 16 52 20" src="https://github.com/user-attachments/assets/c8e3db46-9d3d-46c1-9dc6-60bdf11ffd7c" />
+
 ---
 
 ## ✨ Features
@@ -26,6 +28,8 @@
 - **📹 Direct In-Browser Video Export**: Render smooth, frame-accurate WebM video exports locally at up to 1080p resolution.
 - **💾 Project Manager**: Save, load, and manage your visualizer configurations locally in your browser.
 - **🔒 100% Private & Free**: Audio and visual processing runs entirely on client-side memory—no tracks or assets are ever uploaded to a remote server.
+
+<img width="1628" height="1003" alt="Screenshot 2026-09-18 16 56 10" src="https://github.com/user-attachments/assets/bbacadc9-533b-4008-8510-95af7a8284ac" />
 
 ---
 
