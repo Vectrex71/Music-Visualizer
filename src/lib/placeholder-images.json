@@ -1,0 +1,167 @@
+{
+  "placeholderImages": [
+    {
+      "id": "neon-grid",
+      "description": "80s Neon Grid background",
+      "imageUrl": "https://images.unsplash.com/photo-1768330187179-8f42ac8a7c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuZW9uJTIwZ3JpZHxlbnwwfHx8fDE3NzEzNTAyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neon grid"
+    },
+    {
+      "id": "starfield",
+      "description": "Parallax Starfield background",
+      "imageUrl": "https://images.unsplash.com/photo-1770067139926-aec4f8eb9aa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdGFyZmllbGQlMjBzcGFjZXxlbnwwfHx8fDE3NzEzNTE0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "starfield space"
+    },
+    {
+      "id": "plasma-wave",
+      "description": "Plasma Wave background",
+      "imageUrl": "https://images.unsplash.com/photo-1735776077243-f9bfc39e9d24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwbGFzbWElMjB3YXZlfGVufDB8fHx8MTc3MTM1MTQ5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plasma wave"
+    },
+    {
+      "id": "waveform",
+      "description": "Waveform visualizer",
+      "imageUrl": "https://images.unsplash.com/photo-1770322186226-47cb83d32fa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3YXZlZm9ybSUyMGF1ZGlvfGVufDB8fHx8MTc3MTM1MTQ4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waveform audio"
+    },
+    {
+      "id": "spectrum-bars",
+      "description": "Spectrum Bars visualizer",
+      "imageUrl": "https://images.unsplash.com/photo-1768943913426-92ddefdbf440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlcXVhbGl6ZXIlMjBhdWRpb3xlbnwwfHx8fDE3NzEzNTE0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "equalizer audio"
+    },
+    {
+      "id": "pulsing-circles",
+      "description": "Pulsing Circles visualizer",
+      "imageUrl": "https://images.unsplash.com/photo-1496989981497-27d69cdad83e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGNpcmNsZXxlbnwwfHx8fDE3NzEzNTE0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract circle"
+    },
+    {
+      "id": "copper-bars",
+      "description": "Amiga Copper Bars",
+      "imageUrl": "https://images.unsplash.com/photo-1543165259-a2472946026f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3BwZXIlMjBsaW5lc3xlbnwwfHx8fDE3NzE1NDQwODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "copper lines"
+    },
+    {
+      "id": "vector-cube",
+      "description": "Rotating Vector Cube",
+      "imageUrl": "https://images.unsplash.com/photo-1718645063380-15cc969b17ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3aXJlZnJhbWUlMjBjdWJlfGVufDB8fHx8MTc3MTU0NDExM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireframe cube"
+    },
+    {
+      "id": "glenz-vectors",
+      "description": "Glenz Vector Tunnel",
+      "imageUrl": "https://images.unsplash.com/photo-1593433389868-875c7a522378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2ZWN0b3IlMjB0dW5uZWx8ZW58MHx8fHwxNzcxNTQ0MTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vector tunnel"
+    },
+    {
+      "id": "tunnel",
+      "description": "Retro Tunnel Background",
+      "imageUrl": "https://images.unsplash.com/photo-1549488344-cbb6c34cf08b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHR1bm5lbHxlbnwwfHx8fDE3NzE2MTU0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract tunnel"
+    },
+    {
+      "id": "circular-spectrum",
+      "description": "Circular Spectrum Visualizer",
+      "imageUrl": "https://images.unsplash.com/photo-1707921610492-f6e6c142b32f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaXJjdWxhciUyMGF1ZGlvJTIwZXF1YWxpemVyfGVufDB8fHx8MTc3MTYxNTQ4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "circular equalizer"
+    },
+    {
+      "id": "checkerboard",
+      "description": "Perspective Checkerboard",
+      "imageUrl": "https://images.unsplash.com/photo-1562140236-4a34b220c9e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzcGVjdGl2ZSUyMGNoZWNrZXJib2FyZHxlbnwwfHx8fDE3NzE2MTU1MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "checkerboard floor"
+    },
+    {
+      "id": "matrix",
+      "description": "Matrix digital rain background",
+      "imageUrl": "https://images.unsplash.com/photo-1579789398463-66b931991b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXRyaXglMjBjb2RlfGVufDB8fHx8MTc3MTYyODAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "matrix code"
+    },
+    {
+      "id": "particles",
+      "description": "Particle explosions visualizer",
+      "imageUrl": "https://images.unsplash.com/photo-1534972195531-d756b9bfa8f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYXJ0aWNsZSUyMGV4cGxvc2lvbnxlbnwwfHx8fDE3NzE2MjgwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "particle explosion"
+    },
+    {
+      "id": "torus-3d",
+      "description": "3D Torus demoscene effect",
+      "imageUrl": "https://images.unsplash.com/photo-1683935272382-9515371b2447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aXJlZnJhbWUlMjB0b3J1c3xlbnwwfHx8fDE3NzE2MjgwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wireframe torus"
+    },
+    {
+      "id": "final-video",
+      "description": "Final rendered video preview",
+      "imageUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "imageHint": "abstract animation"
+    },
+    {
+      "id": "lissajous-curves",
+      "description": "Abstract Lissajous curve effect",
+      "imageUrl": "https://images.unsplash.com/photo-1634017834453-875a3a033f23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsaXNzYWpvdXMlMjBjdXJ2ZSUyMGFic3RyYWN0fGVufDB8fHx8MTc3MTk0MjU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract curve"
+    },
+    {
+      "id": "spirograph",
+      "description": "Abstract spirograph visualizer",
+      "imageUrl": "https://images.unsplash.com/photo-1633613286848-f3319018d9b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHNwaXJvZ3JhcGh8ZW58MHx8fHwxNzcxNzAwMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract spirograph"
+    },
+    {
+      "id": "boids-flocking",
+      "description": "Boids flocking simulation effect",
+      "imageUrl": "https://images.unsplash.com/photo-1528933839958-09688438a291?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmbG9jayUyMG9mJTIwYmlyZHN8ZW58MHx8fHwxNzcxNzAwMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "flock birds"
+    },
+    {
+      "id": "vector-ball",
+      "description": "3D Vector Ball",
+      "imageUrl": "https://images.unsplash.com/photo-1634017834453-875a3a033f23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHNwaGVyZSUyMGRvdHN8ZW58MHx8fHwxNzcyMjYzMzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract sphere"
+    },
+    {
+      "id": "strobe",
+      "description": "Strobe light effect",
+      "imageUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHJvYmUlMjBsaWdodHxlbnwwfHx8fDE3NzIyNjMzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "strobe light"
+    },
+    {
+      "id": "phyllotaxis",
+      "description": "Generative Phyllotaxis pattern",
+      "imageUrl": "https://images.unsplash.com/photo-1550268960-a21225114d23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdW5mbG93ZXIlMjBzZWVkc3xlbnwwfHx8fDE3NzI5OTUwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunflower seeds"
+    },
+    {
+      "id": "polysphere",
+      "description": "Rotating Polygonal Sphere",
+      "imageUrl": "https://images.unsplash.com/photo-1628189524391-7a6d55716e25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb2x5Z29uYWwlMjBzcGhlcmV8ZW58MHx8fHwxNzcyOTk1MDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "polygonal sphere"
+    },
+    {
+      "id": "floweroflife",
+      "description": "Flower of Life Visualizer",
+      "imageUrl": "https://images.unsplash.com/photo-1617934444583-1c9449a7c645?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGZsb3dlciUyMGdlb21ldHJ5fGVufDB8fHx8MTc3Mjk5NTAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometry"
+    },
+    {
+      "id": "textparticles",
+      "description": "Text Particle Bursts",
+      "imageUrl": "https://images.unsplash.com/photo-1620662737041-948f3f3326c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmbG9hdGluZyUyMGxldHRlcnN8ZW58MHx8fHwxNzcyOTk1MDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floating letters"
+    },
+    {
+      "id": "metaballs",
+      "description": "Demoscene Metaballs Effect",
+      "imageUrl": "https://images.unsplash.com/photo-1620662737041-948f3f3326c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGJsdXIlMjBzcGhlcmVzfGVufDB8fHx8MTc3Mjk5NTAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract spheres"
+    },
+    {
+      "id": "greets",
+      "description": "Demoscene Greets Scroller",
+      "imageUrl": "https://images.unsplash.com/photo-1516943482169-70b5a16568c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0eXBvZ3JhcGh5JTIwc2Nyb2xsfGVufDB8fHx8MTc3Mjk5NTAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "typography scroll"
+    }
+  ]
+}
